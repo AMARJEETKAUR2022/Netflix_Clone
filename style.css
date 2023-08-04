@@ -88,6 +88,7 @@ form{
     padding: 10px 10px;
     color: #fff;
     background: transparent;
+    cursor: text;
 }
 #btn:hover{
     cursor: pointer;
